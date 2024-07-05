@@ -63,6 +63,7 @@ p{
     font-size: larger;
     margin:0;
     color:rgb(255,255,255);
+    cursor:pointer;
 }
 .bottom-part
 {
@@ -89,8 +90,8 @@ button{
 }
 button:hover,input:hover
 {
-    background-color: rgba(194, 188, 188, 0.4);
-    transition:50ms;
+    background-color: rgba(253, 253, 253, 0.5);
+    transition:700ms;
 }
 
 button,input:focus
